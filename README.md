@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=70&letterSpacing=0.3rem&pause=1000&color=F72F72&background=FFFFFF00&vCenter=true&width=700&height=100&lines=Dain's+Github!😼)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=70&letterSpacing=0.3rem&pause=1000&color=F72F72&background=FFFFFF00&vCenter=true&width=800&height=100&lines=😼Dain's+Github!😼)](https://git.io/typing-svg)
 ![Dain's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeondain&show_icons=github&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeondain&theme=radical&layout=donut" height="196px">
 <!--
