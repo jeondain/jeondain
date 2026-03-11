@@ -40,6 +40,15 @@
 ## 🌱 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeondain&show_icons=true&theme=radical&hide_border=true&rank_icon=github" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeondain&theme=radical&layout=compact&hide_border=true" height="180px"/>
+  <a href="https://github.com/jeondain">
+    <img style="height:195px" src="https://github-readme-stats.vercel.app/api?username=jeondain&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
+  </a>
+  <a href="https://github.com/jeondain">
+    <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeondain&theme=radical&layout=donut&hide_border=true"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=jeondain&theme=radical&hide_border=true&card_width=790" alt="GitHub Streak"/>
+  </a>
 </p>
